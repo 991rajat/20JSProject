@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     font-family: 'Lato', sans-serif;
-    height: 100vh;
+    height: 100px;
 }
 
 .movie-container select{
